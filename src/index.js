@@ -14,7 +14,7 @@ ReactDom.render(
         <Switch>
             <Route path='/register' component={Register}></Route>
             <Route path='/login' component={Login}></Route>
-            <Route  component={Main}></Route>
+            <Route  component={Main11}></Route>
         </Switch>
     </HashRouter>,
     document.getElementById('root')
